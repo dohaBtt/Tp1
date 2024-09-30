@@ -17,8 +17,7 @@ Vous trouverez ci-dessous la structure du code et des explications pour chaque p
   - [Optionnel : Exercice III : Cône](#optionnel-exercice-iii-cone)
   - [Optionnel : Exercice IV : Objets Tronqués](#optionnel-exercice-iv-objets-tronqués)
 - [Exécution](#exécution)
-- [Évaluation](#évaluation)
-- [Licence](#licence)
+
 
 ## Prérequis
 
@@ -88,3 +87,8 @@ Clonez ce dépôt :
 ```bash
 git clone https://github.com/dohaBtt/Tp1.git
 
+Ouvrez le projet dans Unity.
+
+Ouvrez la scène située dans Assets/Scenes pour visualiser et exécuter les formes géométriques.
+
+Lancez la scène pour visualiser les formes générées dans l'environnement Unity.
