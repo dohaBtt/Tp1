@@ -7,7 +7,7 @@ Ce projet contient le code source et l'implémentation du TP1, qui porte sur la 
 Vous trouverez ci-dessous la structure du code et des explications pour chaque partie du TP.
 
 ## Table des matières
-- [Aperçu](#aperçu)
+
 - [Prérequis](#prérequis)
 - [Structure du projet](#structure-du-projet)
 - [Instructions](#instructions)
