@@ -46,6 +46,10 @@ Voici un aperçu des fichiers et des répertoires dans le projet :
 ├── .gitignore          # Fichier Git ignore
 ├── README.md           # Documentation du projet (ce fichier)
 └── .vsconfig           # Configuration de VSCode pour Unity
+
+```plaintext
+
+
 # Exercice 0 : Plan
 **Objectif :** Créer un plan en utilisant deux triangles.  
 **Détails :** Vous pouvez étendre cet exercice en augmentant le nombre de triangles, organisés en lignes et colonnes.  
